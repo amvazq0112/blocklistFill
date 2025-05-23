@@ -13,7 +13,6 @@
 ||ads.yahoo.com^
 ||redacted-domain-30.com^
 ||afs.googlesyndication.com^
-||browser.sentry-cdn.com^
 ||app.getsentry.com^
 ||udcm.yahoo.com^
 ||partnerads.ysm.yahoo.com^
@@ -22,9 +21,13 @@
 ||gemini.yahoo.com^
 ||adtech.yahooinc.com^
 ||static.media.net^
-||appmetrica.yandex.ru^
 ||analytics.google.com^
 ||adservices.googleadservices.com^
 ||ads.googleadservices.com^
 ||support.googleadservices.com^
 ||googleadservices.com^
+||pagead2.googlesyndication.com^
+||googleads.g.doubleclick.net^
+||ad.doubleclick.net^
+||partner.googleadservices.com^
+||s.youtube.com^
