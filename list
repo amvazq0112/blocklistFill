@@ -1,9 +1,9 @@
-
 ||ads-api.twitter.com^
 ||ads.pinterest.com^
+||ads-api.tiktok.com^
 ||business-api.tiktok.com^
-||ads-sg.tiktok.com^
-||ads.tiktok.com^
+||appmetrica.yandex.ru^
+||metrika.yandex.ru^
 ||ads.yahoo.com^
 ||adtech.yahooinc.com^
 ||gemini.yahoo.com^
@@ -17,14 +17,10 @@
 ||ad.doubleclick.net^
 ||partner.googleadservices.com^
 ||s.youtube.com^
-||ads-api.tiktok.com^
 ||ads.youtube.com^
 ||adfox.yandex.ru^
 ||adserver.unityads.unity3d.com^
 ||analytics-api.samsunghealthcn.com^
-||analytics-query.yahoo.com^
-||analytics.tiktok.com^
-||analytics-sg.tiktok.com^
 ||an.facebook.com^
 ||api-adservices.apple.com^
 ||auction.unityads.unity3d.com^
@@ -44,7 +40,6 @@
 ||iot-eu-logser.realme.com^
 ||iot-logser.realme.com^
 ||log.byteoversea.com^
-||log.pinterest.com^
 ||logbak.hicloud.com^
 ||logservice.hicloud.com^
 ||logservice1.hicloud.com^
